@@ -1,0 +1,11 @@
+# Este es un comentario
+# La primera línea es el símbolo inicial
+S
+# Luego vienen las producciones
+S -> aBDh 
+B -> cC 
+C -> bc | e
+D -> EF 
+E -> g | e
+F -> f | e 
+
